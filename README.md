@@ -1,5 +1,5 @@
-###Hi, Welcome to my Kaizend Repo!
+### Hi, Welcome to my Kaizend Repo!
 
 This is my compilation of my work on Kaizend - a Python training exclusively for PythonPH volunteers.
 
-Enjoy! :happy: :party:
+Enjoy! :smile: :party:
